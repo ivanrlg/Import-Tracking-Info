@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Docker Virtual Machine",
+            "type": "al",
+            "request": "launch",
+            "server": "http://bc",
+            "serverInstance": "BC",
+            "startupCompany": "CRONUS USA, Inc.",
+            "port": 7049,
+            "tenant": "default",
+            "authentication": "UserPassword",
+            "startupObjectId": 7339,
+            "startupObjectType": "Page",
+            "schemaUpdateMode": "ForceSync",
+            "breakOnError": true
+        }
+    ]
+}
